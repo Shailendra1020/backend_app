@@ -43,6 +43,7 @@ public class AuthController {
 	
 	@PostMapping("/login")
 	public ResponseEntity<JwtAuthResponse> createToken(@Valid @RequestBody JwtAuthRequest request) throws Exception{
+		System.out.println("shaledra first commit");
 	
 		this.authenticate(request.getUsername(), request.getPassword());
 		
