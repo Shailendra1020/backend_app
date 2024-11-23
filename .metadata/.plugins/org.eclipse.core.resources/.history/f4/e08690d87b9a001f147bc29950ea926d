@@ -1,0 +1,5 @@
+package com.thenewsgrit.controllers;
+
+public class CommentController {
+
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=news-app-apis/C:\/Users\/hp\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.5.3.Final\/hibernate-core-6.5.3.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.5.3.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(Dialect.class[Dialect" modifiers="1057" timestamp="1727067356271"/>
+    <typeInfo handle="=news-app-apis/C:\/Users\/hp\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.5.3.Final\/hibernate-core-6.5.3.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.5.3.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="1048609" timestamp="1727067356271"/>
+    <typeInfo handle="=news-app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.thenewsgrit.services{UserService.java[UserService" modifiers="513" timestamp="1731473995591"/>
+    <typeInfo handle="=news-app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.thenewsgrit.services{CategoryService.java[CategoryService" modifiers="513" timestamp="1730184662729"/>
+    <typeInfo handle="=news-app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.thenewsgrit.services{PostService.java[PostService" modifiers="513" timestamp="1730619339917"/>
+    <typeInfo handle="=news-app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.thenewsgrit.services{FileService.java[FileService" modifiers="513" timestamp="1730624804807"/>
+</typeInfoHistroy>
